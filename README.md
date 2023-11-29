@@ -51,7 +51,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Deployment
 
-The application is deployed and can be accessed at [deployed-link](task-management-app-elitefit.vercel.app){:target="_blank"}
+The application is deployed and can be accessed at [Visit Deployed App](https://task-management-app-elitefit.vercel.app/){:target="_blank" rel="noopener noreferrer"}
+
 
 ## Learn More
 
